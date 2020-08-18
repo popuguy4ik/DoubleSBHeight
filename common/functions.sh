@@ -17,7 +17,7 @@ cleanup() {
   ui_print " "
   ui_print "    **************************************"
   ui_print "    *   MMT Extended by Zackptg5 @ XDA   *"
-  ui_print "    *   AOSPuizer by t0x1 @oh_no_cr1nge   *"
+  ui_print "    *   Module by t0x1 @oh_no_cr1nge   *"
   ui_print "    **************************************"
   ui_print " "
 }
